@@ -4,12 +4,12 @@ Slides URL : [https://slides.com/shekharrajak/PyCon-2019](https://slides.com/she
 
 Example programs and Content are being updateed : 
 
-- Python Program
-- Problem with pure Python Program
+- Pure Python Program and benchmarks
+- Existing ways to boost the performance
 - You might have tried these solutions: ..
 - Parallel computing for independent statements in Python
-- Available library for parallel scientific computing 
-- You have GPU card (NVIDIA) in your system
+- Available library for parallel scientific computing by SciPy and other communities
+- You have GPU card (NVIDIA) in your system ?
 - Why not use it for Programming.
 - CUDA program
 - Use it in Python
